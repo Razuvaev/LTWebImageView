@@ -1,3 +1,4 @@
 # LTWebImageView
 
-Should add #import <CommonCrypto/CommonCrypto.h> in bridging header file
+In bridging header file you should add one line: 
+#import <CommonCrypto/CommonCrypto.h>
